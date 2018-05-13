@@ -1,3 +1,4 @@
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/hongge372/FFmpeg.git
+	branch = stu-git
